@@ -66,7 +66,7 @@ that I can see are a familiar Geometry model and a precise specification of topo
 offset by the disadvantages of a bias to 2D planar coordinate systems, and a (by current tastes)  problematic API design.
 (Should complex operations really be part of the Geometry interface? What with alternative algorithm implementations?)
  
-Because of these misgivings, we will de-emphasize SFS compliance.
+Because of these misgivings, we will de-emphasize SFS compliance...
 
 
 
